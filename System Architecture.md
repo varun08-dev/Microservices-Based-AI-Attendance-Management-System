@@ -1,5 +1,17 @@
 # System Architecture
 
+## Content:
+
+- [Overview](#Overview)
+- [Microservices](#microservices)
+- [Authentication Flow](#authentication-flow)
+- [Attendance Marking Flow](#attendance-marking-flow)
+- [Unknown Face Detection Flow](#unknown-face-detection-flow)
+- [Database Design](#database-design)
+- [Security Architecture](#security-architecture)
+- [Advantages of Architecture](#advantages-of-architecture)
+
+
 # Overview
 
 The AI-Powered Smart Attendance System follows a microservices architecture where authentication, attendance management, and AI recognition are separated into independent services.
